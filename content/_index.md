@@ -6,7 +6,7 @@ action_type: text
 description: Hi! Welcome to my blog. 
 
 image_left: true
-sharing_image= "/img/anand.jpg"
+sharing_image= "/anand.jpg"
 show_action_link: true
 show_social_links: true
 subtitle: Assistant Professor of Economics, Department of Humanities and Social Sciences, IIT Delhi, India
