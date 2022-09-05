@@ -1,4 +1,8 @@
 ---
+action_label: Latest post &rarr;
+action_link: /blog
+action_type: text
+
 description: Hi! Welcome to my blog. 
 
 image_left: true
