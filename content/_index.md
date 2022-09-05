@@ -1,7 +1,4 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
 description: Hi! Welcome to my blog. 
 
 image_left: true
