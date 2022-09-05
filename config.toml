@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = ""
   description = "Assistant Professor of Economics, Department of Humanities and Social Sciences, IIT Delhi"
   favicon = "/img/equality.ico"
-  logo = "HOME"
+  logo = "/img/equality.ico"
   mainSections = ["blog", "research", "media"]
   navallcaps = true
   # show/hide social icons in site header & footer
