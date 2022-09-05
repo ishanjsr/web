@@ -3,9 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, I am Ishan Anand.
+  Welcome!
 ---
 
 <!-- this is a subheadline -->
-I am interested in economics, data, plants and food. 
+Welcome to my personal webpage. I am an economist, and I write on economics, data, plants and food. 
 
