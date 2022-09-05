@@ -96,8 +96,12 @@ enableEmoji = true
    [[params.social]]
        icon      = "email" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "email:ishan.jsr@yahoo.com"
-
+      url       = "ishan.jsr@yahoo.com"
+  [[params.social]]
+       icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
+      
 [taxonomies]
   category = "categories"
   series = "series"
