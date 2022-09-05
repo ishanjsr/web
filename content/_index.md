@@ -9,9 +9,9 @@ images:
 - \anand.jpg
 show_action_link: true
 show_social_links: true
-subtitle: My personal webpage
-text_align_left: false
-title: Ishan Anand's Blog
+subtitle: Assistant Professor of Economics, Department of Humanities and Social Sciences, IIT Delhi, India
+text_align_left: true
+title: Ishan Anand
 type: home
 ---
 
