@@ -95,9 +95,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/ishanjsr/web"
    [[params.social]]
-      icon      = "email" # icon name without the 'fa-'
+      icon      = "gmail" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "ishan.jsr@yahoo.com"
+      url       = "ishan.jsr@gmail.com"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "fab"
