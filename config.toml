@@ -85,20 +85,21 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/ishanjsr/web"
+
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/ishanjsr"
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/ishanjsr/web"
    [[params.social]]
-       icon      = "email" # icon name without the 'fa-'
+      icon      = "email" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "ishan.jsr@yahoo.com"
   [[params.social]]
-       icon      = "google-scholar" # icon name without the 'fa-'
+      icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
       
