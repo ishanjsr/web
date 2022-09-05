@@ -6,7 +6,7 @@ description: Hi! Welcome to my blog.
 
 image_left: true
 images:
-- anand.jpg
+- \anand.jpg
 show_action_link: true
 show_social_links: true
 subtitle: My personal webpage
