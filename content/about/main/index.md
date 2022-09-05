@@ -1,12 +1,12 @@
 ---
 ## Configure page content in wide column
-title: "My work" # leave blank to exclude
+title: "" # leave blank to exclude
 number_featured: 0 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
-show_intro: true
+show_intro: false
 intro: |
-  I am an economist interested in understanding the dynamics and drivers of inequality and social stratification, informality and the livelihoods crisis in India. I love to work with data, and strive to tell interesting stories.
+  
 ---
 
 ** index doesn't contain a body, just front matter above.

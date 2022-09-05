@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Welcome to my personal webpage. I am an economist, and I write on economics, data, plants and food. 
+Welcome to my personal webpage. I am an economist interested in understanding the dynamics and drivers of inequality and social stratification, informality and the livelihoods crisis in India. I love to work with data, and strive to tell interesting stories. Also interested in plants and food!
 
