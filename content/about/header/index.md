@@ -2,6 +2,7 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
+avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 headline: |
   Welcome!
 ---
