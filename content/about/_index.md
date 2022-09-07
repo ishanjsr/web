@@ -1,11 +1,12 @@
 ---
-cascade:
-  headless: true
+title: "About me"
 description: |
   Ishan Anand's personal webpage
-show_header: true
-sidebar_left: false
-title: About
+show_header: false
+sidebar_left: true
+# Keep this! Do not edit.
+cascade:
+  headless: true
 ---
 
 ** index doesn't contain a body, just front matter above.
