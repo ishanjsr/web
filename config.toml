@@ -99,9 +99,9 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
   [[params.social]]
-      icon      = "email" # icon name without the 'fa-'
+      icon      = "gmail" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "ishan.jsr@gmail.com"
+      url       = "writeto::ishan.jsr@gmail.com"
       
 [taxonomies]
   category = "categories"
