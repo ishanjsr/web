@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 description: |
   Ishan Anand's personal webpage
 show_header: false
