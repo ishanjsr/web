@@ -1,12 +1,16 @@
 ---
-## Configure header of page
-text_align_right: false
-show_title_as_headline: false
-avatar_shape: rounded # circle, square, rounded, leave blank to exclude
-headline: |
-  Welcome!
+## Configure page content in wide column
+title: "Hello! It's nice to meet you"
+number_featured: 0 # pulling from mainSections in config.toml
+use_featured: false # if false, use most recent by date
+number_categories: 0 # set to zero to exclude
+show_intro: true
+show_outro: false
+intro: |
+
+  Welcome to my personal webpage. I am an economist interested in understanding the dynamics and drivers of inequality and social stratification, informality and the livelihoods crisis. Also interested in data, plants and food!
+
 ---
 
-<!-- this is a subheadline -->
-Welcome to my personal webpage. I am an economist interested in understanding the dynamics and drivers of inequality and social stratification, informality and the livelihoods crisis. Also interested in data, plants and food!
-
+** index doesn't contain a body, just front matter above.
+See about/list.html in the layouts folder **
