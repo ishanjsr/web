@@ -95,13 +95,13 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/ishanjsr/web"
   [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
-  [[params.social]]
       icon      = "email" # icon name without the 'fa-'
       icon_pack = "far"
       url       = "ishan.jsr@gmail.com"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
 
       
 [taxonomies]
