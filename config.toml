@@ -101,7 +101,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      icon_label = "email"
+      icon_name = "email"
       url       = "mailto:ishan.jsr@yahoo.com"
       
 [taxonomies]
