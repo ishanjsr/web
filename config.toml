@@ -99,7 +99,7 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
   [[params.social]]
-      icon      = "envelope" # icon name without the 'fa-'
+      icon      = "email" # icon name without the 'fa-'
       icon_pack = "far"
       url       = "mailto:ishan.jsr@yahoo.com"
       
