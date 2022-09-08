@@ -145,7 +145,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
-    url = "/contact/"
+    url = "https://formspree.io/f/xwkzvrjw"
     weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
