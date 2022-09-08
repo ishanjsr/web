@@ -100,7 +100,7 @@ enableEmoji = true
       url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon_pack = "far"
       url       = "mailto:ishan.jsr@yahoo.com"
       
 [taxonomies]
