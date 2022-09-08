@@ -99,8 +99,8 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ"
   [[params.social]]
-      icon      = "yahoo" # icon name without the 'fa-'
-      icon_pack = "far"
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
       url       = "mailto:ishan.jsr@yahoo.com"
       
 [taxonomies]
