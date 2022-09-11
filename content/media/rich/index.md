@@ -1,5 +1,5 @@
 ---
-title: "![How rich are India’s richest – and how poor are the rest?](https://www.hindustantimes.com/india-news/how-rich-are-india-s-richest-and-how-poor-are-the-rest-101647367668630.html)"
+title: "[How rich are India’s richest – and how poor are the rest?](https://www.hindustantimes.com/india-news/how-rich-are-india-s-richest-and-how-poor-are-the-rest-101647367668630.html)"
 date: 2022-03-16
 categories: 
 - Inequality
@@ -9,4 +9,3 @@ tags:
 image:
   preview_only: true
 ---
-![How rich are India’s richest – and how poor are the rest?](https://www.hindustantimes.com/india-news/how-rich-are-india-s-richest-and-how-poor-are-the-rest-101647367668630.html)
