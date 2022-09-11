@@ -7,5 +7,5 @@ subtitle: ""
 tags: 
 - inequality
 image:
-  preview_only: true
+  preview_only: false
 ---
