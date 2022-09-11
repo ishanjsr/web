@@ -3,7 +3,7 @@ action_label: Latest post &rarr;
 action_link: /blog
 action_type: text
 
-description: Hi! Welcome to my blog. 
+description: 
 
 image_left: false
 images:
@@ -12,7 +12,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Assistant Professor of Economics, Department of Humanities and Social Sciences, IIT Delhi, India
 text_align_left: true
-title: Ishan Anand
+title: Home
 type: home
 ---
 
