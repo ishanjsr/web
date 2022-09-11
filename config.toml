@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Ishan Anand"
   orgLocal = ""
   description = "Assistant Professor of Economics, Department of Humanities and Social Sciences, IIT Delhi"
-  favicon = ""
-  logo = ""
+  favicon = "/img/equality.ico"
+  logo = "/img/equality.ico"
   mainSections = ["blog", "research", "media"]
   navallcaps = true
   # show/hide social icons in site header & footer
