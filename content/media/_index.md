@@ -13,8 +13,7 @@ layout: list # list, list-sidebar, list-grid
 sidebar: 
   title: Media
   description: |
-    
-  author: "Ishan Anand"
+  author: ""
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
