@@ -1,0 +1,10 @@
+---
+title: "Media/Web Articles"
+author: "Ishan"
+date: "2022-10-29"
+output: html_document
+---
+
+[Indian Wealth](https://www.hindustantimes.com/cricket/want-to-play-every-game-as-wicketkeeper-but-we-have-rishabh-ishan-kishan-opens-up-on-competition-with-talented-pant-101645523325840.html)
+
+[Indian non wealth](https://www.hindustantimes.com/entertainment/bollywood/rishab-shetty-on-kantara-s-success-people-asked-me-to-make-it-a-pan-india-film-101666783013119.html)
